@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generated with script from SVN rev Unknown -->
+<materials>
+<material name="Kart_01.png" gloss-map="Kart_01_gloss.png" colorizable="Y"/>
+<material name="Kart_02.png" gloss-map="Kart_02_gloss.png" colorizable="Y"/>
+</materials>

@@ -1,0 +1,13 @@
+Model and animations created from scratch by Marcel 
+Therrien.  All textures are royalty-free with exeptions 
+below:
+
+~Screen.png created from scratch using online tool Pixlr
+~Face.png created from scratch using online tool Piskel
+
+Raspbi has been created with love to the Raspberry Pi 4,
+a small, full-featured credit card-sized computer that can
+run many of your favorite linux games, including Tux Racer,
+SuperTux, and SuperTuxKart.
+
+This add-on is released under the GNU GPL.

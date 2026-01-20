@@ -1,0 +1,47 @@
+Tux (Linux) Kart by Julian Schönbächler for SuperTuxKart
+Last edited on 26.08.2020
+
+Please contact me for any use which is not allowed by this license.
+	Julian Schönbächler
+	http://creative-forge.ch/
+	info@creative-forge.ch
+
+
+Character information:
+----------------------------------------------------------------------------
+Tux is the official mascot of the Linux kernel. Tux is also the most
+commonly used icon for Linux.
+
+See for example: http://www.linux.org/
+
+
+License information:
+----------------------------------------------------------------------------
+- Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+	Visit the following link for detailed informations:
+	http://creativecommons.org/licenses/by-sa/3.0/
+
+- GNU General Public License (GPL)
+	Visit following the link for detailed informations:
+	http://www.gnu.org/licenses/gpl
+
+
+Licensing of this work
+----------------------------------------------------------------------------
+Tux 2dVector icon: "3000-icon.png"
+	- GPL / Author: yekCim (edit by Typhon306)
+	
+Tux textures
+	- CC BY-SA 3.0 / Author: Julian Schönbächler
+	- Wheel Texture "3000wheel.png" edited by Typhon306
+	- Electronical pattern texture "stk_electronicalPattern_a.png" from STK Media Repo
+
+Tux all other kart files
+	- CC BY-SA 3.0 / Author: Julian Schönbächler & Typhon306 (for Character edit)
+
+
+Edit Description
+-----------------------------------------------------------------------------	
+Character edit based on SuperTuxKart 3000 Teaser <https://www.youtube.com/watch?v=xQqK-IrpOyc>
+	- Changes: Added red glowing eye, headlight edit, added glowing lines on the wheels, added backpedal animation
+	- v2: Added electronical pattern

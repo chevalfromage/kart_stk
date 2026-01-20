@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<kart name="Nicoloulou" version="2" model-file="nicoloulou.spm" icon-file="nicoloulou.png" minimap-icon-file="nicoloulou.png" shadow-file="skirpy-shadow.png" center-shift="0.00" groups="Add-Ons" type="medium" rgb="1.00 1.00 1.00" revision="2">
+    <sounds engine="large"/>
+    <animations left="0" straight="9" right="19" start-winning="29" start-winning-loop="69" end-winning="98" start-losing="109" start-losing-loop="149" end-losing="212"/>
+    <wheels>
+        <rear-right position="0.326299 0.159762 -0.468546" model="wheel-rear-right.b3d"/>
+        <rear-left position="-0.324764 0.159762 -0.468546" model="wheel-rear-left.b3d"/>
+        <front-right position="0.279036 0.136513 0.450000" model="wheel-front-right.b3d"/>
+        <front-left position="-0.277501 0.136513 0.450000" model="wheel-front-left.b3d"/>
+    </wheels>
+</kart>

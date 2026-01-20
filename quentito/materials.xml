@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<materials>
+  <material name="Rider_Bike_dif.png" gloss-map="Rider_Bike_gloss.png" normal-map="Rider_Bike_nrm.png" colorizable="Y" colorization-mask="Rider_Bike_mask.png"/>
+  <material name="Rider_Bike_Body_dif.png" gloss-map="Rider_Bike_Body_gloss.png" normal-map="Rider_Bike_Body_nrm.png" colorizable="Y"/>
+  <material name="Rider_Bike_part_dif.png" normal-map="Rider_Bike_part_nrm.png" colorizable="Y"/>
+  <material name="Rider_bike_tire_dif.png" gloss-map="Rider_bike_tire_gloss.png" normal-map="Rider_bike_tire_nrm.png" colorizable="Y"/>
+  <material name="rider_kit_dif.png" gloss-map="rider_kit_gloss.png" normal-map="Rider_kit_nrm.png" colorizable="Y"/>
+  <material name="Rider_suit_dif.png" gloss-map="Rider_Suit_gloss.png" normal-map="Rider_suit_nrm.png" colorizable="Y" colorization-mask="Rider_suit_mask.png"/>
+  <material name="Eyebrows_dif.png" shader="alphatest"/>
+  <material name="Glass.png" gloss-map="Glass_gloss.png" />
+  <material name="Rider_helmet_glass_dif.png" gloss-map="Rider_helmet_glassgloss.png"/>
+  <material name="Head_Hair_col.png" normal-map="Head_Hair_nrm.png"/>
+  <material name="Helmet_dif.png" normal-map="Helmet_nrm.png" colorizable="Y" colorization-mask="Helmet_mask.png"/>
+  <material name="Head_dif.png" normal-map="Head_nrm.png"/>
+</materials>

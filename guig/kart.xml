@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<kart name="Guig" version="3" model-file="guig.spm" icon-file="icon.png" minimap-icon-file="icon.png" shadow-file="genericshadow.png" type="medium" groups="Add-Ons" rgb="1.00 1.00 1.00" revision="2">
+    <sounds engine="small"/>
+    <animations left="0" straight="19" right="39" start-jump="79" end-jump="98" start-winning="119" start-winning-loop="126" end-winning="157" start-losing="168" start-losing-loop="201" end-losing="207"/>
+    <wheels>
+        <rear-right position="0.503694 0.187754 -0.341063" model="wheel-rear-right.spm"/>
+        <front-right position="0.503694 0.141271 0.352033" model="wheel-front-right.spm"/>
+        <front-left position="-0.520868 0.141271 0.352033" model="wheel-front-left.spm"/>
+        <rear-left position="-0.520868 0.187754 -0.341063" model="wheel-rear-left.spm"/>
+    </wheels>
+    <nitro-emitter>
+        <nitro-emitter-a position="-0.441282 0.388758 -0.651325"/>
+        <nitro-emitter-b position="0.444918 0.388758 -0.651325"/>
+    </nitro-emitter>
+    <exhaust file="kart_exhaust.xml"/>
+</kart>

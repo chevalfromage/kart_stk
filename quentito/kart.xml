@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<kart name="Fallitarpe" version="3" model-file="quentin.spm" icon-file="icon.png" minimap-icon-file="icon.png" shadow-file="noshadow" type="medium" groups="Add-Ons" rgb="0.96 0.38 0.16" revision="2">
+    <sounds engine="large">
+        <skid name="default"/>
+    </sounds>
+    <animations left="0" straight="10" right="20" backpedal-left="24" backpedal="34" backpedal-right="44" start-jump="49" end-jump="119" start-winning="129" start-winning-loop="179" end-winning="269" end-winning-straight="325" start-losing="329" start-losing-loop="399" end-losing="419" end-losing-straight="427" selection-start="429" selection-end="529"/>
+    <wheels>
+        <front-right position="0.294790 0.181344 0.491656" model="wheel-front-right.spm"/>
+        <front-left position="-0.294790 0.181344 0.491656" model="wheel-front-left.spm"/>
+        <rear-right position="0.317262 0.181344 -0.455464" model="wheel-rear-right.spm"/>
+        <rear-left position="-0.317262 0.181344 -0.455464" model="wheel-rear-left.spm"/>
+    </wheels>
+    <nitro-emitter>
+        <nitro-emitter-a position="0.158611 0.346648 -0.508867"/>
+        <nitro-emitter-b position="-0.158611 0.346648 -0.508867"/>
+    </nitro-emitter>
+    <headlights>
+        <object position="0.000000 0.435668 1.231534" rotation="-0.000000 0.000000 -0.000000" scale="0.905250 0.905250 0.905250" bone="Bike" model="Headlight.spm"/>
+    </headlights>
+    <lean max="*0-10"/>
+    <exhaust file="kart_exhaust.xml"/>
+</kart>
