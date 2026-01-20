@@ -1,4 +1,6 @@
-# Comment ajouter les nouveaux kart dans SuperTuxKart
+# ↓ Comment ajouter les nouveaux kart dans SuperTuxKart ? ↓
+
+![image de presentation](/assets/image_exemple.png)
 
 1. Télécharger SuperTuxKart : [Site officiel](https://supertuxkart.net/fr/Download)
 2. Télécharger le dépot .zip
