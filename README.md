@@ -1,4 +1,4 @@
-# ↓ Comment ajouter les nouveaux kart dans SuperTuxKart ? ↓
+# ↓ Ajouter les nouveaux karts dans SuperTuxKart ↓
 
 ![image de presentation](/assets/image_exemple.png)
 
