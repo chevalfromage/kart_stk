@@ -8,3 +8,6 @@
 4. Ajouter les karts dans le dossier `%APPDATA%\supertuxkart\addons\karts` (sur windows)
 
 Si le dossier addons ou karts n'existe pas déjà, vous pouvez le créer vous même
+
+5. Démarer le jeu
+6. Les nuveaux karts se trouvent dans la section *Extensions* du menu de sélection de kart
